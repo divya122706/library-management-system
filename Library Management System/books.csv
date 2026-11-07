@@ -1,0 +1,32 @@
+book_id,title,author,status
+1,The Hobbit,J.R.R. Tolkien,Available
+2,Matilda,Roald Dahl,Available
+3,Pride and Prejudice,Jane Austen,Available
+4,1984,George Orwell,Available
+5,To Kill a Mockingbird,Harper Lee,Available
+6,The Great Gatsby,F. Scott Fitzgerald,Available
+7,The Catcher in the Rye,J.D. Salinger,Available
+8,Animal Farm,George Orwell,Available
+9,The Lord of the Rings,J.R.R. Tolkien,Available
+10,The Little Prince,Antoine de Saint-Exupery,Available
+11,Jane Eyre,Charlotte Bronte,Available
+12,Wuthering Heights,Emily Bronte,Available
+13,Frankenstein,Mary Shelley,Available
+14,Dracula,Bram Stoker,Available
+15,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Available
+16,A Study in Scarlet,Arthur Conan Doyle,Available
+17,The Secret Garden,Frances Hodgson Burnett,Available
+18,Little Women,Louisa May Alcott,Available
+19,The Wonderful Wizard of Oz,L. Frank Baum,Available
+20,Alice's Adventures in Wonderland,Lewis Carroll,Issued
+21,The Call of the Wild,Jack London,Available
+22,The Jungle Book,Rudyard Kipling,Available
+23,Anne of Green Gables,L. M. Montgomery,Issued
+24,The Wind in the Willows,Kenneth Grahame,Available
+25,The Time Machine,H. G. Wells,Available
+26,The War of the Worlds,H. G. Wells,Available
+27,The Picture of Dorian Gray,Oscar Wilde,Available
+28,The Old Man and the Sea,Ernest Hemingway,Available
+29,The Giver,Lois Lowry,Available
+30,Charlotte's Web,E. B. White,Available
+31,Peter Pan,J.M. Barrie,Issued
